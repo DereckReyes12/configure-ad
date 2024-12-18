@@ -113,5 +113,11 @@ regr</p>
 <p>Join Client-1 to your domain (mydomain.com)</p>
 <br />
 <p><img src="https://i.imgur.com/buO2SfO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>
+  
+</p>
+<br />
+<p><img src="https://i.imgur.com/rpJKk3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>efrtewfrewf</p>
 
 
