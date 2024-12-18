@@ -119,5 +119,20 @@ regr</p>
 <br />
 <p><img src="https://i.imgur.com/rpJKk3X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>efrtewfrewf</p>
+<br />
+<p><img src="https://i.imgur.com/jrPRyce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p></p>
+
+<br />
+<p>Setup Remote Desktop for non-administrative users on Client-1</p>
+<br />
+
+<p>
+ <img src="https://i.imgur.com/a8uYG8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p></p>
+<br />
+<p>Create a bunch of additional users and attempt to log into client-1 with one of the users</p>
+<br />
 
 
