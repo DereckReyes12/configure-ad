@@ -47,7 +47,6 @@ Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Gr
 Set Domain Controller’s NIC Private IP address to be static:
 </p>
 <br />
-
 <p>
 <img src="https://i.imgur.com/cOnaVji.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -60,8 +59,12 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 <p>
   <img src="https://i.imgur.com/ot8Y8Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-  
+<p>Log into the VM and disable the Windows Firewall (for testing connectivity)</p>
+ 
+  <br />
+  <p></p>
+
+  <br />
 </p>
 <br />
 <p>installing active directory</p>
