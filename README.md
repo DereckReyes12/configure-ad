@@ -62,7 +62,7 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 <p>Log into the VM and disable the Windows Firewall (for testing connectivity)</p>
  
   <br />
-  <p></p>
+  <p> <img src="https://i.imgur.com/LlK8p45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
   <br />
 </p>
