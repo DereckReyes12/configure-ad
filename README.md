@@ -55,3 +55,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+  <img src="https://i.imgur.com/ot8Y8Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
+</p>
+<br />
+<p>installing active directory</p>
+<p>
+  <img src="https://i.imgur.com/HwI0W70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+</p>
+<br />
+<p><img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>
+  
+</p>
+<br>
+<p>
+  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+</p>
+<p>
+  
+</p>
+<br />
+<p>creating an admin and normal user account in AD</p>
+<p><img src="https://i.imgur.com/T07ajkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>ngenrengm
+grgergr
+gregreg
+regr</p>
+<br />
+<p><img src="https://i.imgur.com/ksmisn0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>fef</p>
+<br />
+<p>
+  <img src="https://i.imgur.com/JFY27me.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>r43r</p>
+<br />
+<p><img src="https://i.imgur.com/ugAH3iR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>></p>
+
+
+
