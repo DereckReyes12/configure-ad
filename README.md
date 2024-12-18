@@ -60,39 +60,51 @@ Make sure both virtual machines are located within the same virtual network{Vnet
   <img src="https://i.imgur.com/ot8Y8Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Log into the VM and disable the Windows Firewall (for testing connectivity)</p>
- 
-  <br />
-  <p> <img src="https://i.imgur.com/LlK8p45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
-  <br />
-</p>
 <br />
-<p>installing active directory</p>
+<br />
+<h3 align="center">Ensure Connectivity between the client and Domain Controller</h3>
+<br/>
+<br />
+
+<p> <img src="https://i.imgur.com/LlK8p45.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<br />
+<br />
+  <h3 align="center">Install Active Directory</h3>
+  <br />
+  <br />
+       
+<p>Log in to DC-1 and install Active Directory Domain services. 
+</p>
 <p>
   <img src="https://i.imgur.com/HwI0W70.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p> 
-</p>
 <br />
+
+<p>Promote as a Domain Controller:</p>
 <p><img src="https://i.imgur.com/Y45XBzL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<p>
-  
-</p>
-<br>
-<p>
-  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-</p>
-<p>
-  
-</p>
-<br />
-<p><img src="https://i.imgur.com/Ou32bG9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<p>
-  
-</p>
 
 <br />
-<p>creating an admin and normal user account in AD</p>
+
+<p>Setup a new forest as myactivedirectory.com</p> 
+<p>(can be anything, just remember what it is - I ultimately did set it up as mydomain.com which you'll see in the next pic):</p>
+<p> 
+  <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>
+  
+</p>
+<br />
+<p>Restart and then log back into DC-1 as user: mydomain.com\labusernet:</p>
+
+<p><img src="https://i.imgur.com/Ou32bG9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<br />
+<br />
+<h3 align="center">Create an Admin and Normal User Account in AD</h3>
+<br />
+<br />
+
 <p><img src="https://i.imgur.com/T07ajkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>ngenrengm
 grgergr
