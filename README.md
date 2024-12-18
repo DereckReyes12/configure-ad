@@ -143,4 +143,7 @@ regr</p>
 <p></p>
 <br />
 <p><img src="https://i.imgur.com/yQcvCrT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p></p>
+<br />
+<p><img src="https://i.imgur.com/RIUedBR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
