@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p> 
 </p>
 <br />
-<p><img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p><img src="https://i.imgur.com/Y45XBzL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <p>
   
 </p>
@@ -81,6 +81,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   
 </p>
+<br />
+<p><img src="https://i.imgur.com/Ou32bG9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>
+  
+</p>
+
 <br />
 <p>creating an admin and normal user account in AD</p>
 <p><img src="https://i.imgur.com/T07ajkH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
@@ -97,7 +103,15 @@ regr</p>
 </p>
 <p>r43r</p>
 <br />
-<p><img src="https://i.imgur.com/ugAH3iR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>></p>
+<p><img src="https://i.imgur.com/ugAH3iR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>dwefdwqedfwqe</p>
+<br />
 
+<p><img src="https://i.imgur.com/EZvfUt2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p>regr</p>
+<br />
+<p>Join Client-1 to your domain (mydomain.com)</p>
+<br />
+<p><img src="https://i.imgur.com/buO2SfO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
