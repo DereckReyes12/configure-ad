@@ -134,5 +134,11 @@ regr</p>
 <br />
 <p>Create a bunch of additional users and attempt to log into client-1 with one of the users</p>
 <br />
-
+<p>
+  <img src="https://i.imgur.com/3A0wAH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p></p>
+<br />
+<p><img src="https://i.imgur.com/4oQqFBd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<p></p>
 
