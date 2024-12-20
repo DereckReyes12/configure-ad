@@ -24,10 +24,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Resources
+- Ensure Connectivity between the client and Domain Controller
+- Install Active Directory
+- Create an Admin and Normal User Account in AD
+- Join Client-1 to your domain (mydomain.com)
+- Setup Remote Desktop for non-administrative users on Client-1
+- Create additional users and attempt to log into client-1 with one of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -57,13 +60,15 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 <br />
 
 <p>
-  <img src="https://i.imgur.com/ot8Y8Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/ot8Y8Yt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>Log into the VM and disable the Windows Firewall (for testing connectivity)</p>
 
 <br />
 <br />
-<h3 align="center">Ensure Connectivity between the client and Domain Controller</h3>
+<h3 
+align="center;">Ensure Connectivity between the client and Domain Controller
+</h3>
 <br/>
 <br />
 
@@ -71,7 +76,7 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 
 <br />
 <br />
-  <h3 align="center">Install Active Directory</h3>
+  <h3 align="center;">Install Active Directory</h3>
   <br />
   <br />
        
@@ -101,7 +106,7 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 
 <br />
 <br />
-<h3 align="center">Create an Admin and Normal User Account in AD</h3>
+<h3 align="center;">Create an Admin and Normal User Account in AD</h3>
 <br />
 <br />
 
@@ -128,7 +133,7 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 <p>Join Client-1 to your domain (mydomain.com)</p>
 <br />
 <br />
-<h3 align="center">Join Client-1 to your domain (mydomain.com)</h3>
+<h3 align="center;">Join Client-1 to your domain (mydomain.com)</h3>
 <br />
 <p>  From the Azure Portal,set Client-1's DNS settings to the DC's Private IP adress </p>
 <p><img src="https://i.imgur.com/buO2SfO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
@@ -148,7 +153,7 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 
 
 <br />
-<h3 align="center">Configure Remote Desktop access for non-administrative users on Client-1</h3>
+<h3 align="center;">Configure Remote Desktop access for non-administrative users on Client-1</h3>
 <br />
 
 <p>Log in to Client-1 using the account mydomain.com\jane_admin and open system properties</p>
@@ -162,7 +167,7 @@ Make sure both virtual machines are located within the same virtual network{Vnet
 <p><img src="https://i.imgur.com/a8uYG8X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 <br />
 <br />
-<h3 align="center">Create a bunch of additional users and attempt to log into client-1 with one of the users</h3>
+<h3 align="center;">Create a bunch of additional users and attempt to log into client-1 with one of the users</h3>
 <br />
 
 <ul>
